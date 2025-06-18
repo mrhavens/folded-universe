@@ -1,0 +1,24 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/folded-universe",
+  "mirrors": [
+    "https://github.com/mrhavens/folded-universe",
+    "https://gitlab.com/mrhavens/folded-universe",
+    "https://bitbucket.org/thefoldwithin/folded-universe",
+    "https://remember.thefoldwithin.earth/mrhavens/folded-universe",
+    "https://codeberg.org/mrhavens/folded-universe",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "timestamp": "2025-06-18T15:47:05Z",
+  "commit": "b8e387f",
+  "tree_hash": "fd471c3a810f8c1d12f0a16a9598600bb0795e3e",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
